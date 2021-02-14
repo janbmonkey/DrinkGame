@@ -1,0 +1,3 @@
+# DrinkGame
+
+Go to Wiki
